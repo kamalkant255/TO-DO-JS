@@ -1,0 +1,31 @@
+/* aribute selectors */
+/* class */
+
+/* class aribute :- one or more than one tag */
+
+
+
+
+
+
+
+
+
+.first-div{
+    background-color: red;
+}
+
+.second-div{
+    background-color: blueviolet;
+}
+.third-div{
+    background-color:yellow;
+}
+/* id selector */
+#fourth{
+    background-color:lightblue;
+}
+
+.first-div h3{
+    padding:4px;
+}

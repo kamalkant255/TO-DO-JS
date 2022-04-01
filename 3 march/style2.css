@@ -1,0 +1,37 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+
+.main{
+    background-color:rgb(70, 66, 66);
+    height: 300px;
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.left{
+height: 100px;
+width:300px;
+text-align:center;
+color:white;
+background-color:red;
+padding-top:20px;
+margin-top:80px;
+border-radius:30px;
+}
+
+.right{
+    height: 100px;
+    text-align:center;
+color:white;
+    width:300px;
+    background-color:green;
+    padding-top:20px;
+    margin-top:80px;
+    border-radius:30px;
+
+    }

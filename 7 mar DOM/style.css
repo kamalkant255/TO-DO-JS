@@ -1,0 +1,20 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+    /* background-color: black; */
+}
+.left{
+    height: 150px;
+    width: 160px;
+    background-color:red;
+    /* position: relative; */
+    margin-right: 30px;
+}
+
+.right2{
+    height: 150px;
+    width: 160px;
+    background-color:green;
+   
+}

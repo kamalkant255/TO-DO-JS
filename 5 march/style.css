@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.main{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* position: relative; */
+    background-color:rgb(87, 87, 225);
+    padding-left: 150px;
+}
+
+.logo{
+    /* width: 70px; */
+    margin-top: 10px;
+    text-align: center;
+    height: 60px;
+    /* background-color:red; */
+    position: relative;
+    /* display:flex; */
+    padding-left: 50px;
+
+
+}
+.logo img{
+    /* width:70px; */
+    height: 30px;
+    
+}
+
+.search{
+     width: 80px;
+    height: 30px;
+    /* background-color:red;  */
+    margin-bottom: 10px;
+    padding-left: 10px;
+    
+
+}
+.search input{
+    width:500px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.icon{
+    position:relative;
+    size: large;
+    left:470px;
+    bottom:27px;
+    color: rgb(87, 87, 225);
+
+}
+
+.right{
+    width: 80px;
+    height: 30px;
+    /* background-color:red; */
+    position:relative;
+    left:500px;
+    display:flex;
+    
+
+}
+.side{
+    color:white;
+    font-weight: 600;
+    padding: 7px;
+}
+
+
+.side2{
+    color:white;
+    font-weight: 600;
+    padding: 7px;
+    margin-left: 40px;
+}
+
+.cart i{
+    font-size:30px;
+    padding-left: 35px;
+    color:white;
+}
+
+.category{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list{
+    width:20px;
+    height:30px;
+    /* background-color:red; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    /* text-align: center; */
+    align-items: center;
+    /* margin-left: -40px; */
+    
+}
+
+.list3{
+    width:20px;
+    height:30px;
+    background-color:red;
+}
+.list img{
+width: 80px;
+height: 70px;
+}

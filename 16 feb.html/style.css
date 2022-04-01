@@ -1,0 +1,30 @@
+body{
+    background-color:grey;
+}
+/*  display:block */
+.first-div{
+    color:white;
+    display:block;
+}
+/* display:flex */
+.webdev{
+    display:flex;
+    background-color:lightblue;
+    /* justify content */
+    justify-content:center;
+    /* vertical alignment */
+    
+    align-items:center;
+
+
+}
+
+.webdev .div2{
+    margin:5px;
+    padding:5px;
+    
+}
+.webdev .div2{
+    margin:5px;
+    padding:5px;
+}
